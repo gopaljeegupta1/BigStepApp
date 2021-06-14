@@ -10,22 +10,20 @@ The main activity should have 2 tabs (swipe to change)
 1. First Tab <br/>
 
       a) Video <br/>
-      • Inputs: You've to fetch the data from API ( https://itunes.apple.com/search?term=Michael+jackson&amp;media=musicVideo )
-      • Outputs: Name of the song, thumbnail profile.
-      • Upon selecting a video in the list, the Video info page for that video will be displayed (in a
-      new activity / page).
+      • Inputs: You've to fetch the data from API ( https://itunes.apple.com/search?term=Michael+jackson&amp;media=musicVideo ) <br/>
+      • Outputs: Name of the song, thumbnail profile. <br/>
+      • Upon selecting a video in the list, the Video info page for that video will be displayed (in a new activity / page).
 
       b) Video info page <br/>
-      • Video thumbnail top of the page.
-      • Display Song name, author name, date, price etc.
+      • Video thumbnail top of the page. <br/>
+      • Display Song name, author name, date, price etc. <br/>
 
 2. Second Tab <br/>
 
       a) History <br/>
-      • Outputs: Clicked item will be shown in history tab.
-      For ex. If you&#39;ve clicked on a video &quot;Thriller&quot; then this item will be shown in history.
-      NOTE: You&#39;ve to use a local database to store the history locally and display it at each
-      time when app launched (Realm/Room/Any)
+      • Outputs: Clicked item will be shown in history tab. <br/>
+      For ex. If you&#39;ve clicked on a video &quot;Thriller&quot; then this item will be shown in history. <br/>
+      NOTE: You&#39;ve to use a local database to store the history locally and display it at each time when app launched (Realm/Room/Any)
 
       
 ## Skills Set
